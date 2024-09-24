@@ -1,0 +1,21 @@
+Decimal Math System
+
+https://www.mathsisfun.com/decimals.html
+
+Binary Math System
+
+https://www.mathsisfun.com/binary-number-system.html
+https://www.cuemath.com/numbers/binary-number-system/
+
+Khan Academy
+https://www.youtube.com/watch?v=sXxwr66Y79Y
+
+Tom Lehrer
+https://www.youtube.com/watch?v=UIKGV2cTgqA&t=10s
+
+Hexadecimal Math System
+
+https://www.mathsisfun.com/hexadecimals.html
+
+Conversions
+https://www.rapidtables.com/convert/number/decimal-to-hex.html?x=59628
